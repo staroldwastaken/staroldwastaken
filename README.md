@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @staroldwastaken
-- 👀 I’m interested in ... Coding, Professional Dumbass, and I like Smash Bros
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... Coding, Being a Professional Dumbass, and I like Smash Bros
+- 🌱 I’m currently learning ... Java and Python
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... @staroldwastaken on twitter
